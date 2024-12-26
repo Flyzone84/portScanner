@@ -30,7 +30,7 @@
 ## Clone
 
 ```
-git clone https://github.com](https://github.com/Flyzone84/portScanner.git
+git clone https://github.com/Flyzone84/portScanner.git
 ```
 # change directory
 
