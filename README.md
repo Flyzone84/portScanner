@@ -30,8 +30,15 @@
 ## Clone
 
 ```
-git clone https://github.com
+git clone https://github.com](https://github.com/Flyzone84/portScanner.git
 ```
+# change directory
+
+```
+cd portScanner
+```
+
+
 ## Running
 
 ```
